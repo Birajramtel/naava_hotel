@@ -1,3 +1,27 @@
+        <div class="container mt-5 ">
+            <div class="row mt-5">
+                <div class="col-6 mt-5">
+                    <h6>PHOTOS</h6>
+                    <h2> <strong>See our latest photos <br>From restaurant and hotel </strong></h2>
+                </div>
+            </div>
+        </div>
+        <div class="">
+            <div class="row">
+                <div class="col-3">
+                    <img src="img/Table_final.png" class="img-fluid" alt="Table Final">
+                </div>
+                <div class="col-3">
+                    <img src="img/Bishnudwaar_final.png" class="img-fluid float-right" alt="Bishnudwaar Hiking">
+                </div>
+                <div class="col-3">
+                    <img src="img/Bed_final.png" class="img-fluid float-left" alt="Hotel Bed">
+                </div>
+                <div class="col-3">
+                    <img src="img/Seminar_final.png" class="img-fluid float-right" alt="Seminar Hall"> 
+                </div>                    
+            </div>
+        </div>      
         <footer class="footer_hero">
         <div class="container mt-5 ">
                 <div class="row mt-5">
