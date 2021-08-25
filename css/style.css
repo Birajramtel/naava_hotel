@@ -12,8 +12,8 @@ body{
 }
 .Header_Content{
     position: absolute;
-    top: 0px;
-    margin-left: 150px;
+    top: 2%;
+    left: 5%;
 }
 .Section_Hero{
     position: relative;
