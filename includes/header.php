@@ -45,7 +45,7 @@
                                         <a class="nav-link active" href="index.html"><u> Home</u><span class="sr-only">(current)</span></a>
                                     </li>
                                     <li class="nav-item pl-2">
-                                        <a class="nav-link" href="#">About Naava</a>
+                                        <a class="nav-link" href="about.php">About Naava</a>
                                     </li>
                                     <li class="nav-item pl-2">
                                         <a class="nav-link" href="#">Explore Shivapuri</a>
@@ -73,6 +73,18 @@
                         </nav>
                     </div>
                 </div>
+            </div>
+            <div class="container Header_Content_Paragraph">
+                <div class="row">
+                    <div class="col-5">
+                        <h1>Your home <br> away from Home.</h1>
+                        <p>Naava is an amalgamation of comfort, beauty and adventure: whether you are
+                            someone seeking a break from your daily affairs or someone seeking adventure 
+                            or insight into Nepal’s diverse flora and fauna, Naava is the perfect place for you.
+                        </p>
+                    </div>
+                </div>
+                
             </div>
         </div>
     </header>

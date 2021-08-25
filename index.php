@@ -107,7 +107,7 @@
                         <h2> <strong>What you get <br> In a nutshell </strong></h2>
                     </div>
                     <div class="col-6 mt-5 pb-2">
-                        <button class="btn btn-primary btn-lg ml-4 ">Explore</button>
+                        <button class="btn btn-primary btn-lg  mr-5 float-right ">Explore</button>
                     </div>
                 </div>
                 <div class="row">
@@ -151,7 +151,8 @@
                     </div>
                 </div>
             </div>
-            <div class="container mt-5 ">
+        </section>
+        <div class="container mt-5 ">
                 <div class="row mt-5">
                     <div class="col-6 mt-5">
                         <h6>PHOTOS</h6>
@@ -174,8 +175,7 @@
                         <img src="img/Seminar_final.png" class="img-fluid float-right" alt="Seminar Hall"> 
                     </div>                    
                 </div>
-            </div>
-        </section>      
+            </div>      
 <?php
     include('includes/footer.php')
 ?>

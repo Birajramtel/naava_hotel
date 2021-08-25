@@ -20,6 +20,13 @@ body{
     top: 20%;
     left: 15%;
 }
+.Header_Content_Paragraph{
+    position: absolute;
+    bottom: 40%;
+    left: 10%;
+    font-size: large;
+    color: aliceblue;
+}
 .Section_Hero{
     position: relative;
 }
@@ -31,8 +38,4 @@ body{
 .footer_hero{
     background-color: black;
     width: 100%;
-    padding: 25px;
-    border: 25px solid navy;
-    margin: 25px;
-    border-radius: 15px;
 }
