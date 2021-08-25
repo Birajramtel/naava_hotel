@@ -51,7 +51,7 @@
                                         <a class="nav-link" href="#">Explore Shivapuri</a>
                                     </li>
                                     <li class="nav-item pl-2">
-                                        <a class="nav-link" href="#">Accommodation</a>
+                                        <a class="nav-link" href="accommodation.php">Accommodation</a>
                                     </li>
                                     <li class="nav-item pl-2">
                                         <a class="nav-link" href="#">Eat and Drink</a>
