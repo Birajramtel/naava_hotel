@@ -42,7 +42,7 @@
                             <div class="collapse navbar-collapse" id="navbarNav">
                                 <ul class="navbar-nav pl-2">
                                     <li class="nav-item pl-2">
-                                        <a class="nav-link active" href="index.html"><u> Home</u><span class="sr-only">(current)</span></a>
+                                        <a class="nav-link active" href="index.html">Home<span class="sr-only">(current)</span></a>
                                     </li>
                                     <li class="nav-item pl-2">
                                         <a class="nav-link" href="about.php">About Naava</a>
@@ -54,7 +54,7 @@
                                         <a class="nav-link" href="accommodation.php">Accommodation</a>
                                     </li>
                                     <li class="nav-item pl-2">
-                                        <a class="nav-link" href="#">Eat and Drink</a>
+                                        <a class="nav-link" href="eat_and_drink.php">Eat and Drink</a>
                                     </li>
                                     <li class="nav-item pl-2">
                                         <a class="nav-link" href="#">Packages</a>
