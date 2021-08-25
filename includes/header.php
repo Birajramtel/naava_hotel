@@ -40,7 +40,7 @@
                         </div>
                         <ul class="navbar-nav">
                             <li class="nav-item pl-2">
-                                <a class="nav-link active bg-info" href="index.html">Home<span class="sr-only">(current)</span></a>
+                                <a class="nav-link active" href="index.html"><u> Home</u><span class="sr-only">(current)</span></a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#">About Naava</a>
