@@ -24,5 +24,10 @@ body{
     left:10%;
 }
 .footer_hero{
-    background-color: #000;
+    background-color: black;
+    width: 100%;
+    padding: 25px;
+    border: 25px solid navy;
+    margin: 25px;
+    border-radius: 15px;
 }
