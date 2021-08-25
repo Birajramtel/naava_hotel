@@ -9,10 +9,10 @@
         <div class="">
             <div class="row">
                 <div class="col-3">
-                    <img src="img/Bishnudwaar_final.png" class="float-right" alt="Table Final">
+                    <img src="img/Table_final.png" class="float-right" alt="Table Final">
                 </div>
                 <div class="col-3">
-                    <img src="img/Table_final.png" class="float-right" alt="Bishnudwaar Hiking">
+                    <img src="img/Bishnudwaar_final.png" class="float-right" alt="Bishnudwaar Hiking">
                 </div>
                 <div class="col-3">
                     <img src="img/Bed_final.png" class="float-right" alt="Hotel Bed">
