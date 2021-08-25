@@ -13,12 +13,12 @@ body{
 .Header_Logo_Content{
     position: absolute;
     top: 0%;
-    left: 15%;
+    left: 10%;
 }
 .Header_Content{
     position: absolute;
     top: 20%;
-    left: 20%;
+    left: 15%;
 }
 .Section_Hero{
     position: relative;

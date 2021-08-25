@@ -29,7 +29,7 @@
             <div class="Header_Image">
                 <img src="img/Slider_image_1.png" alt="Welcome to Naava Hotel" width="100%">   
             </div>
-            <div class="container mr-5 Header_Logo_Content">
+            <div class="container Header_Logo_Content">
                 <div class="row">
                     <div class=col-2>
                         <img src="img/Naava PP.png" alt="Naava Brown Bg logo Image">
