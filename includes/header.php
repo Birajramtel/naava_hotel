@@ -35,7 +35,7 @@
                     <div class=col-2>
                         <img src="img/Naava PP.png" alt="Naava Brown Bg logo Image">
                     </div>
-                    <div class="col-10 Header_Content pr-0 ml-5">
+                    <div class="col-10 Header_Content">
                         <nav class="navbar navbar-expand-lg navbar-light">
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="navbar-toggler-icon"></span>

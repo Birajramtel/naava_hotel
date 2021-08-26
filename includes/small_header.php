@@ -25,11 +25,11 @@
         <link rel="stylesheet" href="css/style.css">
     </head>
     <header>
-        <div class="Header_hero mb-5">
-            <div class="Header_Image_hero">
+        <div class="Header mb-5">
+            <div class="Header_Image">
                 <img src="img/Hotel_front_about.png" alt="Welcome to Naava Hotel" width="100%">   
             </div>
-            <div class="container Header_Logo_Content_hero">
+            <div class="container Header_Logo_Content">
                 <div class="row">
                     <div class=col-2>
                         <img src="img/Naava PP.png" alt="Naava Brown Bg logo Image">
@@ -42,49 +42,46 @@
                             <div class="collapse navbar-collapse" id="navbarNav">
                                 <ul class="navbar-nav pl-2">
                                     <li class="nav-item pl-2">
-                                        <a class="nav-link active" href="index.html">Home<span class="sr-only">(current)</span></a>
+                                        <a class="nav-link active  nav_text" href="index.php">Home<span class="sr-only">(current)</span></a>
                                     </li>
                                     <li class="nav-item pl-2">
-                                        <a class="nav-link" href="about.php">About Naava</a>
+                                        <a class="nav-link  nav_text" href="about.php">About Naava</a>
                                     </li>
                                     <li class="nav-item pl-2">
-                                        <a class="nav-link" href="#">Explore Shivapuri</a>
+                                        <a class="nav-link  nav_text" href="#">Explore Shivapuri</a>
                                     </li>
                                     <li class="nav-item pl-2">
-                                        <a class="nav-link" href="accommodation.php">Accommodation</a>
+                                        <a class="nav-link  nav_text" href="accommodation.php">Accommodation</a>
                                     </li>
                                     <li class="nav-item pl-2">
-                                        <a class="nav-link" href="eat_and_drink.php">Eat and Drink</a>
+                                        <a class="nav-link  nav_text" href="eat_and_drink.php">Eat and Drink</a>
                                     </li>
                                     <li class="nav-item pl-2">
-                                        <a class="nav-link" href="#">Packages</a>
+                                        <a class="nav-link  nav_text" href="#">Packages</a>
                                     </li>
                                     <li class="nav-item pl-2">
-                                        <a class="nav-link" href="#">Highlights</a>
+                                        <a class="nav-link  nav_text" href="#">Highlights</a>
                                     </li>
                                     <li class="nav-item pl-2">
-                                        <a class="nav-link" href="#">Gallery</a>
+                                        <a class="nav-link  nav_text" href="#">Gallery</a>
                                     </li>
                                     <li class="nav-item pl-2">
-                                        <a class="nav-link" href="#">Contact</a>
+                                        <a class="nav-link  nav_text" href="#">Contact</a>
                                     </li>
                                 </ul>
                             </div>
                         </nav>
                     </div>
                 </div>
-            </div>
+            </div>  
             <div class="container Header_Content_Paragraph">
-                <div class="row">
-                    <div class="col-5">
-                        <h1>Your home <br> away from Home.</h1>
-                        <p>Naava is an amalgamation of comfort, beauty and adventure: whether you are
-                            someone seeking a break from your daily affairs or someone seeking adventure 
-                            or insight into Nepal’s diverse flora and fauna, Naava is the perfect place for you.
-                        </p>
-                    </div>
+                <h2 class= "header_2 pt-1"><strong><b>About Naava</b></strong> </h2>
+                <div class="col-5">
+                    <ul class="breadcrumb">
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">About Us</a></li>
+                    </ul>       
                 </div>
-                
-            </div>
+            </div>          
         </div>
     </header>
