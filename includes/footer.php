@@ -1,27 +1,19 @@
         <div class="container mt-5 mb-5 ">
-            <div class="row mt-5 ml-2">
-                <div class="col-8 mt-5">
-                    <h6 class="Header_6"><strong>PHOTOS</strong></h6>
-                    <h2 class="Header_2"> <strong><b>See our latest photos<br>From restaurant and hotel</b> </strong></h2>
+                <div class="row mt-5 ml-2">
+                    <div class="col-8 mt-5">
+                        <h6 class="Header_6"><strong>PHOTOS</strong></h6>
+                        <h2 class="Header_2"> <strong><b>See our latest photos<br>From restaurant and hotel</b> </strong></h2>
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="">
-            <div class="row">
-                <div class="col-3">
-                    <img src="img/Table_final.png" class="float-right" alt="Table Final">
-                </div>
-                <div class="col-3">
-                    <img src="img/Bishnudwaar_final.png" class="float-right" alt="Bishnudwaar Hiking">
-                </div>
-                <div class="col-3">
-                    <img src="img/Bed_final.png" class="float-right" alt="Hotel Bed">
-                </div>
-                <div class="col-3">
-                    <img src="img/Seminar_final.png" class="float-right" alt="Seminar Hall"> 
-                </div>                    
-            </div>
-        </div>      
+                  
+        </div>     
+        <div class="gallery__wrapper">
+            <a> <img src="img/Table_final.png" class="float-right" alt="Table Final"></a>
+            <a><img src="img/Bishnudwaar_final.png" class="float-right" alt="Bishnudwaar Hiking"></a>
+            <a><img src="img/Bed_final.png" class="float-right" alt="Hotel Bed"></a>
+            <a><img src="img/Seminar_final.png" class="float-right" alt="Seminar Hall"></a>
+        </div>        
         <footer class="footer_hero">
             <div class="container mt-5 pl-5">
                 <div class="row ml-3 mb-5">

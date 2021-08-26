@@ -89,10 +89,6 @@ body{
     font-size: 62px;
     font-weight: 50px;
 }
-/* Header 6 Text */
-.Header_6{
-    color: #DDA140;
-}
 /* Header 2 Text */
 .Header_2{
     font-size: 42px;
@@ -101,6 +97,11 @@ body{
     font-size: 42px;
     color: #FFF;
 }
+/* Header 6 Text */
+.Header_6{
+    color: #DDA140;
+}
+
 /* White text on Footer  */
 .white_text{
     color: #FFF;
@@ -132,9 +133,7 @@ body{
     opacity: 0.5;
     background-size: cover;
 }
-
 /* Social Icons Opened */
-
 .fa {
 padding: 15px;
 font-size: 35px;
@@ -188,13 +187,12 @@ text-decoration: underline;
 
 /* Bread crumb menu  */
 ul.breadcrumb {
-  padding: 10px 16px;
   list-style: none;
   background-color:transparent;
 }
 ul.breadcrumb li {
   display: inline;
-  font-size: 12px;
+  font-size: 14px;
 }
 ul.breadcrumb li+li:before {
   padding: 8px;
@@ -208,4 +206,13 @@ ul.breadcrumb li a {
 ul.breadcrumb li a:hover {
   color: #FFF;
   text-decoration: underline;
+}
+
+/* gallery */
+.gallery__wrapper{
+    display: flex;
+    flex-wrap: wrap;
+}
+.gallery__wrapper a{
+    width:calc(100% / 4);
 }

@@ -76,12 +76,10 @@
             </div>  
             <div class="container Header_Content_Paragraph">
                 <h2 class= "header_2 pt-1"><strong><b>About Naava</b></strong> </h2>
-                <div class="col-5">
-                    <ul class="breadcrumb">
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About Us</a></li>
-                    </ul>       
-                </div>
+                <ul class="breadcrumb pl-0">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About Us</a></li>
+                </ul>       
             </div>          
         </div>
     </header>
