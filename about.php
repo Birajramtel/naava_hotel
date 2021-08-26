@@ -1,5 +1,5 @@
 <?php
-    include('includes/header.php')
+    include('includes/small_header.php')
 ?>
     <div class="container mt-5 ">
         <div class="row mt-5">

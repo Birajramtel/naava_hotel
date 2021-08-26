@@ -5,7 +5,7 @@
 }
 body{
     font-family: "adobe-clean", sans-serif;
-    font-size: 15px;
+    font-size: 14px;
 }
 .Header{
     position: relative;
@@ -13,7 +13,7 @@ body{
 .Header_Logo_Content{
     position: absolute;
     top: 0%;
-    left: 10%;
+    left: 9%;
 }
 .Header_Content{
     position: absolute;
@@ -22,8 +22,8 @@ body{
 }
 .Header_Content_Paragraph{
     position: absolute;
-    bottom: 40%;
-    left: 10%;
+    bottom: 50%;
+    left: 9%;
     font-size: large;
     color: aliceblue;
 }
@@ -33,7 +33,7 @@ body{
 .Section_Hero_Inside{
     position: absolute;
     top: 25%;
-    left:10%;
+    left:5%;
 }
 .footer_hero{
     background-color: black;
@@ -42,6 +42,125 @@ body{
 /* Paragraph align center */
 .paragraph_align{
     text-align: justify;
-
-
 }
+.Header_hero{
+    position: relative;
+    background-color: #000;
+}
+.navbar-expand-lg .navbar-nav .nav-link.nav_text{
+    color: #FFF;
+}
+.Header_hero::before{
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    opacity: 0.5;
+    background-size: cover;
+}
+/* Header Changes */
+
+.Header{
+    position: relative;
+    background-color: #000;
+}
+.navbar-expand-lg .navbar-nav .nav-link.nav_text{
+    color: #FFF;
+    font-size: 12px;
+}
+.Header::before{
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    opacity: 0.2;
+    background-size: cover;
+}
+/* Header 1 Text */
+.header_1{
+    font-size: 62px;
+    font-weight: 50px;
+}
+/* Header 6 Text */
+.Header_6{
+    color: #DDA140;
+}
+/* Header 2 Text */
+.Header_2{
+    font-size: 42px;
+}
+.Header_2_white{
+    font-size: 42px;
+    color: #FFF;
+}
+/* White text on Footer  */
+.white_text{
+    color: #FFF;
+}
+/* White text on Footer small  */
+
+.white_text_small{
+    color:#B1B1B1;
+}
+
+/* Package Header Center */
+.package_header{
+    text-align:center;
+}
+/* To make Package Image Transparent */
+.Section_Hero{
+    position: relative;
+    background-color: #000;
+}
+.Section_Hero::before{
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    opacity: 0.5;
+    background-size: cover;
+}
+
+/* Social Icons Opened */
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #dd4b39;
+    color: white;
+  }
