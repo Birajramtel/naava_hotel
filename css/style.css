@@ -47,19 +47,9 @@ body{
     position: relative;
     background-color: #000;
 }
-.navbar-expand-lg .navbar-nav .nav-link.nav_text{
-    color: #FFF;
-}
-.Header_hero::before{
-    content: ' ';
-    display: block;
-    position: absolute;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
+.Header_Hero_Image{
     background-color: #000;
-    opacity: 0.5;
+    opacity: 0.9;
     background-size: cover;
 }
 /* Header Changes */

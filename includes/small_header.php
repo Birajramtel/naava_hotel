@@ -25,8 +25,8 @@
         <link rel="stylesheet" href="css/style.css">
     </head>
     <header>
-        <div class="Header mb-5">
-            <div class="Header_Image">
+        <div class="Header_Hero mb-5">
+            <div class="Header_Hero_Image">
                 <img src="img/Hotel_front_about.png" alt="Welcome to Naava Hotel" width="100%">   
             </div>
             <div class="container Header_Logo_Content">
