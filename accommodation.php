@@ -1,5 +1,5 @@
 <?php
-include('includes/header.php')
+include('includes/small_header.php')
 ?>
 <div class="container mt-5 ">
     <h2> <strong>Best Place <br> Best View.</strong></h2>
@@ -19,17 +19,49 @@ include('includes/header.php')
         </p>
             
         <div class="row">
-            <div class="col-3">
+            <div class="col-2">
                 <img src="img/Accommodation room 1.png" alt="Accommodation Rooms">
             </div>
             <div class="col-3">
+                <h5>Big</h5>
+                <h5>Spacious Room</h5>
+                <p>The most spacious room you will ever see in our hotel. <br> Equipped with span and warm beds</p>
+            </div>
+            <div class="col-1 bg-secondary ">
+                <i class='fas fa-arrow-circle-right pt-5 ' style='font-size:28px'></i>
+            </div>
+            <div class="col-2">
                 <img src="img/Accommodation room 2.png" alt="Accommodation Rooms">
             </div>
             <div class="col-3">
+                    <h5>Big</h5>
+                    <h5>Spacious Room</h5>
+                    <p>The most spacious room you will ever see in our hotel. <br> Equipped with span and warm beds</p>
+            </div>
+            <div class="col-1 bg-secondary ">
+                <i class='fas fa-arrow-circle-right pt-5 ' style='font-size:28px'></i>
+            </div>
+            <div class="col-2">
                 <img src="img/Accommodation room 3.png" alt="Accommodation Rooms">
             </div>
-            <div class="col-3 pr-0">
+            <div class="col-3">
+                    <h5>Big</h5>
+                    <h5>Spacious Room</h5>
+                    <p>The most spacious room you will ever see in our hotel. <br> Equipped with span and warm beds</p>
+            </div>
+            <div class="col-1 bg-secondary ">
+                <i class='fas fa-arrow-circle-right pt-5 ' style='font-size:28px'></i>
+            </div>
+            <div class="col-2">
                 <img src="img/Accommodation room 4.png" alt="Accommodation Rooms">
+            </div>
+            <div class="col-3">
+                    <h5>Big</h5>
+                    <h5>Spacious Room</h5>
+                    <p>The most spacious room you will ever see in our hotel. <br> Equipped with span and warm beds</p>
+            </div>
+            <div class="col-1 bg-secondary ">
+                <i class='fas fa-arrow-circle-right pt-5 mr-1' style='font-size:28px'></i>
             </div>
         </div>
     </div>
