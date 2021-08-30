@@ -67,7 +67,7 @@
                                         <a class="nav-link  nav_text" href="#">Gallery</a>
                                     </li>
                                     <li class="nav-item pl-2">
-                                        <a class="nav-link  nav_text" href="#">Contact</a>
+                                        <a class="nav-link  nav_text" href="contact.php">Contact</a>
                                     </li>
                                 </ul>
                             </div>

@@ -23,12 +23,12 @@
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
         crossorigin="anonymous">
         <link rel="stylesheet" href="css/style.css">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
     </head>
     <header>
-        <div class="Header mb-5">
-            <div class="Header_Image">
-                <img src="img/Slider_image_1.png" alt="Welcome to Naava Hotel" width="100%">   
+        <div class="Header_Hero mb-5">
+            <div class="Header_Hero_Image">
+                <img src="img/Contact.png" alt="Welcome to Naava Hotel" width="100%">   
             </div>
             <div class="container Header_Logo_Content">
                 <div class="row">
@@ -42,47 +42,45 @@
                             </button>
                             <div class="collapse navbar-collapse" id="navbarNav">
                                 <ul class="navbar-nav pl-2">
-                                    <li class="nav-item pl-4 ">
-                                        <a class="nav-link active nav_text" href="index.php">Home<span class="sr-only">(current)</span></a>
+                                    <li class="nav-item pl-2">
+                                        <a class="nav-link active  nav_text" href="index.php">Home<span class="sr-only">(current)</span></a>
                                     </li>
-                                    <li class="nav-item pl-4">
-                                        <a class="nav-link nav_text" href="about.php">About Naava</a>
+                                    <li class="nav-item pl-2">
+                                        <a class="nav-link  nav_text" href="about.php">About Naava</a>
                                     </li>
-                                    <li class="nav-item pl-4 ">
-                                        <a class="nav-link nav_text" href="#">Explore Shivapuri</a>
+                                    <li class="nav-item pl-2">
+                                        <a class="nav-link  nav_text" href="#">Explore Shivapuri</a>
                                     </li>
-                                    <li class="nav-item pl-4 ">
-                                        <a class="nav-link nav_text" href="accommodation.php">Accommodation</a>
+                                    <li class="nav-item pl-2">
+                                        <a class="nav-link  nav_text" href="accommodation.php">Accommodation</a>
                                     </li>
-                                    <li class="nav-item pl-4">
-                                        <a class="nav-link nav_text" href="eat_and_drink.php">Eat and Drink</a>
+                                    <li class="nav-item pl-2">
+                                        <a class="nav-link  nav_text" href="eat_and_drink.php">Eat and Drink</a>
                                     </li>
-                                    <li class="nav-item pl-4 ">
-                                        <a class="nav-link nav_text" href="#">Packages</a>
+                                    <li class="nav-item pl-2">
+                                        <a class="nav-link  nav_text" href="#">Packages</a>
                                     </li>
-                                    <li class="nav-item pl-4">
-                                        <a class="nav-link nav_text" href="#">Highlights</a>
+                                    <li class="nav-item pl-2">
+                                        <a class="nav-link  nav_text" href="#">Highlights</a>
                                     </li>
-                                    <li class="nav-item pl-4">
-                                        <a class="nav-link nav_text" href="#">Gallery</a>
+                                    <li class="nav-item pl-2">
+                                        <a class="nav-link  nav_text" href="#">Gallery</a>
                                     </li>
-                                    <li class="nav-item pl-4">
-                                        <a class="nav-link nav_text" href="conact.php">Contact Us</a>
+                                    <li class="nav-item pl-2">
+                                        <a class="nav-link  nav_text" href="#">Contact</a>
                                     </li>
                                 </ul>
                             </div>
                         </nav>
                     </div>
                 </div>
-            </div>
+            </div>  
             <div class="container Header_Content_Paragraph">
-                <h1 class= "header_1 pt-1"><strong><b> Your home <br> away from Home.</b></strong> </h1>
-                <div class="col-5 pt-5">
-                    <p>Naava is an amalgamation of comfort, beauty and adventure: whether you are
-                        someone seeking a break from your daily affairs or someone seeking adventure 
-                        or insight into Nepal’s diverse flora and fauna, Naava is the perfect place for you.
-                    </p>
-                </div>
-            </div>
+                <h2 class= "header_2 pt-1"><strong><b>About Naava</b></strong> </h2>
+                <ul class="breadcrumb pl-0">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About Us</a></li>
+                </ul>       
+            </div>          
         </div>
     </header>

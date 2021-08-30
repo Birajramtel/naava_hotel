@@ -2,8 +2,8 @@
 include('includes/small_header.php')
 ?>
 <div class="container mt-5 ">
-    <h2 class="ml-5 pl-5"> <strong>Best Place <br> Best View.</strong></h2>
-        <p class="paragraph_align ml-5 pr-5 pl-5"><strong>
+    <h2 class="ml-4"> <strong>Best Place <br> Best View.</strong></h2>
+        <p class="paragraph_align ml-4"><strong>
             Rooms surrounded by the natural vegetation of Shivapuri National Park in one elevation and overlooking
             Kathmandu valley on the other, Naava is a place where you can have quiet, peaceful and private resting. 
             Our Standard Rooms have a large bed, private bathroom, shower products, LED TV with satellite channels, 
@@ -17,14 +17,14 @@ include('includes/small_header.php')
             the resort. Spread over an expansive area of over 20,000sq.ft. of total space, living here can give you 
             experience of home in the hills.</strong>
         </p>
-        <div class="row ml-5 pr-2 pl-4">
+        <div class="row ml-1">
             <div class="col-2 pl-4">
                 <img src="img/Accommodation room 1.png" alt="Accommodation Rooms">
             </div>
             <div class="col-3 pl-5">
                 <h6 class="Header_6"><strong>BIG</strong> </h6>
                 <h6><strong>Spacious Room</strong></h6>
-                <p class="accommodation_small">The most spacious room you will ever see in our hotel. Equipped with span and warm beds</p>
+                <p>The most spacious room you will ever see in our hotel. Equipped with span and warm beds</p>
             </div>
             <div class="col-1 bg-secondary ">
                 <i class='fas fa-arrow-circle-right pt-5 ' style='font-size:28px'></i>
@@ -33,9 +33,9 @@ include('includes/small_header.php')
                 <img src="img/Accommodation room 2.png" alt="Accommodation Rooms">
             </div>
             <div class="col-3 pl-5 pr-0">
-                    <h6 class="Header_6"><strong>SMALL</strong></h6>
-                    <h6><strong>Small Cheap Room</strong> </h6>
-                    <p>Smallest and the most economic room in our hotel. Save an extra buck for your holyday</p>
+                <h6 class="Header_6"><strong>SMALL</strong></h6>
+                <h6><strong>Small Cheap Room</strong> </h6>
+                <p>Smallest and the most economic room in our hotel. Save an extra buck for your holyday</p>
             </div>
             <div class="col-1 bg-secondary pr-5">
                 <i class='fas fa-arrow-circle-right pt-5 ' style='font-size:28px'></i>
@@ -63,7 +63,7 @@ include('includes/small_header.php')
                 <i class='fas fa-arrow-circle-right pt-5' style='font-size:28px'></i>
             </div>
         </div>
-        <p class="pt-5 ml-5 pr-5 pl-5">
+        <p class="pt-5 ml-4">
             Feel the morning mist pass by your windows, so close you can almost reach out the clouds. We have well-appointed
             standard rooms each with proper services. What better place to refresh yourself after a long day and looking for 
             a perfect getaway.
