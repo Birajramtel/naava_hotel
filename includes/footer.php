@@ -1,5 +1,5 @@
-        <div class="container mt-5 mb-5 ">
-            <div class="row mt-5 ml-2">
+        <div class="container mt-5 mb-5 mr-5 pl-5">
+            <div class="row mt-5 ml-5">
                 <div class="col-8 mt-5">
                     <h6 class="Header_6"><strong>PHOTOS</strong></h6>
                     <h2 class="Header_2"> <strong><b>See our latest photos<br>From restaurant and hotel</b> </strong></h2>
