@@ -125,12 +125,14 @@ body {
   background-size: cover;
 }
 /* Social Icons Opened */
-.fa {
+.fa,
+.fas {
   padding: 15px;
   font-size: 35px;
   width: 40px;
   height: 40px;
   text-align: center;
+  align-items: center;
   text-decoration: none;
   margin: 5px 5px;
   border-radius: 50%;
@@ -155,12 +157,30 @@ body {
   color: white;
 }
 
+.fa-envelope {
+  background-color: #dda140;
+  color: white;
+}
+
+.fa-phone-alt {
+  background-color: #dda140;
+  color: white;
+}
+
+.fa-map-marker-alt {
+  background-color: #dda140;
+  color: white;
+}
+.green-color {
+  color: green;
+}
+
 .listing_items .li .a {
   list-style: none;
 }
 
 /* Footer's Link  */
-.footer_link:link {
+a.footer_link {
   color: #dda140;
   background-color: transparent;
   text-decoration: none;

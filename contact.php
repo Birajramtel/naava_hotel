@@ -24,6 +24,7 @@
         crossorigin="anonymous">
         <link rel="stylesheet" href="css/style.css">
         <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     </head>
     <header>
         <div class="Header_Hero mb-5">
@@ -79,7 +80,7 @@
                 <h2 class= "header_2"><strong><b>Contact</b></strong> </h2>
                 <ul class="breadcrumb pl-0">
                     <li><a href="#">Home</a></li>
-                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Contact Us</a></li>
                 </ul>       
             </div>          
         </div>
@@ -96,20 +97,35 @@
                     </div>
             </div>
             <div class="col-4">
-                <div class="form-group">              
+                <div class="form-group input-group-lg">              
                     <input type="text" class="form-control input-lg" id="inputlg" placeholder="Subject"> 
                 </div>  
-                <div class="form-group">
+                <div class="form-group input-group-lg">
                     <input type="text" class="form-control input-lg" id="inputlg"  placeholder="Name">
                 </div>          
-                <div class="form-group">
+                <div class="form-group input-group-lg">
                     <input type="email" class="form-control input-lg" id="inputlg"  placeholder="Email">
                 </div>  
-                <button style="font-size:24px">Send <i class="fa fa-send-o"></i></button>
-                <i style="font-size:24px" class="fa">&#xf1d9;</i>
+                <button style="font-size:18px" class="btn btn-primary btn-sm"> Send <i class="fa fa-send-o"></i></button>
             </div>
         </div>
-</form>
+    </form>
+    <div class="container">
+        <div class="row mt-5 mb-2">
+            <div class="col-3">
+                <i class="fa fa-envelope" style="font-size:15px"></i>
+                <h6><strong>Email</strong></h6>
+            </div>
+            <div class="col-3">
+                <i class="fas fa-phone-alt" style="font-size:15px"></i>
+                <h6><strong>Phone</strong></h6>
+            </div>
+            <div class="col-3">
+                <i class="fas fa-map-marker-alt" style="font-size:15px"></i>
+                <h6><strong>Location</strong></h6>
+            </div>
+        </div>
+    </div> 
 </div>
 
 </body>
