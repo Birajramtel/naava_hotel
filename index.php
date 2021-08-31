@@ -87,7 +87,7 @@
                     </div> 
                 </div>
             </div>
-            <div class="container mt-5">
+            <!-- <div class="container mt-5">
                 <div class="row mt-5 mr-3">
                     <div class="col-md-6 col-sm-12 col-xm-12 mt-5 pl-5">
                         <h6 class="Header_6"><strong>HIGHLIGHTS</strong> </h6>
@@ -137,7 +137,7 @@
                         </p>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </section>
 <!--        
 <?php
