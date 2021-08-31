@@ -76,7 +76,7 @@
                 </div>
             </div>  
             <div class="container Header_Content_Paragraph">
-                <h2 class= "header_2 pt-1"><strong><b>About Naava</b></strong> </h2>
+                <h2 class= "header_2"><strong><b>Contact</b></strong> </h2>
                 <ul class="breadcrumb pl-0">
                     <li><a href="#">Home</a></li>
                     <li><a href="#">About Us</a></li>
@@ -90,4 +90,5 @@
 <div class="container mt-5 mb-5">
     <h2 class="Header_2">Contact us to get free support.</h2>
 </div>
+
 </body>
