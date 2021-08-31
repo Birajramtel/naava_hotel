@@ -84,11 +84,35 @@
             </div>          
         </div>
     </header>
-
 <body>
     
 <div class="container mt-5 mb-5">
-    <h2 class="Header_2">Contact us to get free support.</h2>
+    <h2 class="Header_2"><strong><b> Contact us to get <br> free support.</b></strong></h2>
+    <form>
+        <div class="row">
+            <div class="col-8">
+                <div class="form-group">
+                    <textarea class="form-control" rows="15" id="Description" placeholder ="Description"></textarea>
+                    </div>
+            </div>
+            <div class="col-4">
+                <div class="form-group">              
+                    <input type="text" class="form-control input-lg" id="inputlg" placeholder="Subject"> 
+                </div>  
+                <div class="form-group">
+                    <input type="text" class="form-control input-lg" id="inputlg"  placeholder="Name">
+                </div>          
+                <div class="form-group">
+                    <input type="email" class="form-control input-lg" id="inputlg"  placeholder="Email">
+                </div>  
+                <button style="font-size:24px">Send <i class="fa fa-send-o"></i></button>
+                <i style="font-size:24px" class="fa">&#xf1d9;</i>
+            </div>
+        </div>
+</form>
 </div>
 
 </body>
+<?php
+    include("includes/footer.php")
+?>
