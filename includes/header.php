@@ -32,13 +32,40 @@
                 <div id="myCarousel" class="carousel slide" data-ride="carousel">
                     <div class="carousel-inner">
                         <div class="item active">
-                            <img src="img/Slider_image_1.png" alt="Front View image" style="width:100%;">                        
+                            <img src="img/Slider_image_1.png" alt="Front View image" class="w-100" >
+                            <div class="d-none d-md-block Header_Content_Paragraph">
+                                <h1 class= "header_1 d-none d-md-block text-left "><strong><b> Your home <br> away from Home.</b></strong> </h1>
+                                <div class="col-md-5 col-sm-2 pt-5 ">
+                                    <p class="d-none d-md-block">Naava is an amalgamation of comfort, beauty and adventure: whether you are
+                                        someone seeking a break from your daily affairs or someone seeking adventure 
+                                        or insight into Nepal’s diverse flora and fauna, Naava is the perfect place for you.
+                                    </p> 
+                                </div>
+                            </div>                              
                         </div>
                         <div class="item">
-                            <img src="img/Slider_image_2.png" alt="About Our Hotel" style="width:100%;">                        
+                            <img src="img/Slider_image_2.png" alt="About Our Hotel" class="w-100" >
+                             <div class="Header_Content_Paragraph d-none d-md-block">
+                                <h1 class= "header_1 pt-1 d-none d-md-block"><strong><b> Your home <br> away from Home.</b></strong> </h1>
+                                <div class="col-md-5 col-sm-2 pt-5 ">
+                                    <p class="d-none d-md-block">Naava is an amalgamation of comfort, beauty and adventure: whether you are
+                                        someone seeking a break from your daily affairs or someone seeking adventure 
+                                        or insight into Nepal’s diverse flora and fauna, Naava is the perfect place for you.
+                                    </p>    
+                                </div>
+                            </div>                            
                         </div>                    
                         <div class="item">
-                            <img src="img/Slider_image_3.png" alt="Rooms" style="width:100%;">                        
+                            <img src="img/Slider_image_3.png" alt="Rooms" class="w-100" >
+                             <div class="Header_Content_Paragraph d-none d-md-block">
+                                <h1 class= "header_1 pt-1 d-none d-md-block"><strong><b> Your home <br> away from Home.</b></strong> </h1>
+                                <div class="col-md-5 col-sm-2 pt-5 ">
+                                    <p class="d-none d-md-block">Naava is an amalgamation of comfort, beauty and adventure: whether you are
+                                        someone seeking a break from your daily affairs or someone seeking adventure 
+                                        or insight into Nepal’s diverse flora and fauna, Naava is the perfect place for you.
+                                    </p>    
+                                </div>
+                            </div>                            
                         </div>            
                     </div>
                     <a class="left carousel-control" href="#myCarousel" data-slide="prev">
@@ -57,7 +84,7 @@
                         <img class="img-fluid float-left" src="img/Naava PP.png" alt="Naava Brown Bg logo Image">
                     </div>
                     <div class="col-10 Header_Content">
-                        <nav class="navbar navbar-expand-lg navbar-light bg-primary">
+                        <nav class="navbar navbar-expand-lg navbar-light">
                             <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="navbar-toggler-icon"></span>
                             </button>
@@ -96,7 +123,7 @@
                     </div>
                 </div>
             </div>
-            <div class="container Header_Content_Paragraph col-10 ">
+            <!-- <div class="container Header_Content_Paragraph col-10 ">
                 <h1 class= "header_1 pt-1 d-none d-md-block"><strong><b> Your home <br> away from Home.</b></strong> </h1>
                 <div class="col-md-5 col-sm-2 pt-5 ">
                     <p class="d-none d-md-block">Naava is an amalgamation of comfort, beauty and adventure: whether you are
@@ -104,6 +131,6 @@
                         or insight into Nepal’s diverse flora and fauna, Naava is the perfect place for you.
                     </p>
                 </div>
-            </div>
+            </div> -->
         </div>
     </header>

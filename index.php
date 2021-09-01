@@ -43,7 +43,7 @@
                         <h2 class="Header_2_white d-none d-md-block"><strong><b>We bring you better<br>among the best.</b></strong></h2>
                         <h2 class="Header_2 d-xm-block d-md-none "><strong><b>We bring you better<br>among the best.</b></strong></h2>
                         <div class="row"> 
-                            <div class="col-md-3 col-sm-6 col-xm-12"> 
+                            <div class="col-lg-3 col-md-3 col-sm-6 col-xm-12"> 
                                 <div class="card" style="width: 23rem;">
                                     <img class="card-img-top" src="img/Seminar Hall from Back.png" alt="Seminar Hall from Back">
                                     <div class="card-body">
@@ -53,7 +53,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-3 col-sm-6 col-xm-12"> 
+                            <div class="col-lg-3 col-md-3 col-sm-6 col-xm-12"> 
                                 <div class="card" style="width: 23rem;">
                                     <img class="card-img-top" src="img/Seminar Hall from Back.png" alt="Seminar Hall from Back">
                                     <div class="card-body">
@@ -63,7 +63,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-3 col-sm-6 col-xm-12"> 
+                            <div class="col-lg-3 col-md-3 col-sm-6 col-xm-12"> 
                                 <div class="card" style="width: 23rem;">
                                     <img class="card-img-top" src="img/Seminar Hall from Back.png" alt="Seminar Hall from Back">
                                     <div class="card-body">
@@ -73,7 +73,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-3 col-sm-6 col-xm-12"> 
+                            <div class="col-lg-3 col-md-3 col-sm-6 col-xm-12"> 
                                 <div class="card" style="width: 23rem;">
                                     <img class="card-img-top" src="img/Seminar Hall from Back.png" alt="Seminar Hall from Back">
                                     <div class="card-body">
@@ -86,19 +86,19 @@
                         </div>  
                     </div> 
                 </div>
-            </div>
-            <!-- <div class="container mt-5">
+            </div> 
+            <div class="container mt-5">
                 <div class="row mt-5 mr-3">
                     <div class="col-md-6 col-sm-12 col-xm-12 mt-5 pl-5">
                         <h6 class="Header_6"><strong>HIGHLIGHTS</strong> </h6>
                         <h2 class="Header_2"> <strong> <b>What you get <br>In a nutshell</b> </strong></h2>
                     </div>
-                    <div class="col-md-6 col-sm-12 col-xm-12 mt-5 pb-2">
-                        <button class="btn btn-primary btn-lg  mr-5 float-right">Explore</button>
+                    <div class="col-md-6 col-sm-12 col-xm-12 mt-5 pt-5 pb-2">
+                        <button class="btn col-5 btn-colour-1 btn-lg  mr-5 float-right">Explore</button>
                     </div>
                 </div>
                 <div class="row package_header">
-                    <div class="col-md-6 pl-5">
+                    <!-- <div class="col-md-6 col-sm-12 col-xm-12 col-lg-6 pl-5">
                         <img src="img/Bishnudwaar.png" class="img-float pb-2" alt="Bishnudwaar">
                         <h2><strong>Bird Watching</strong></h2>
                         <p>Shivapuri has played a vital role in bird conservation and tourism. 
@@ -106,16 +106,17 @@
                             the total bird species found worldwide. Among them, 42 species are globally
                             threatened and 35 globally near threatened. Among them 311 bird species, 
                             including 117 migratory birds have been found in Shivapuri, making it an 
-                            ornithologist’s paradise.</p>
-                    </div>
-                    <div class="col-6">
+                            ornithologist’s paradise.
+                        </p>
+                    </div> 
+                    <div class="col-md-6 col-sm-12 col-xm-12 col-lg-6">
                         <img src="img/Teen Chuli.png" class="img-float pb-2" alt="Teen Chuli">
                         <h2><strong>Hike and Jungle Safari</strong></h2>
                         <p>Your perfect adventure guide.
                             Available hiking routes:
                         </p>
                     </div>
-                    <div class="col-6 pl-5">
+                    <div class="col-md-6 col-sm-12 col-xm-12 col-lg-6 pl-5">
                         <img src="img/Day Package - Picnic.png" class="img-float pb-2" alt="Day Package - Picnic">
                         <h2><strong>Day Package - Picnic </strong></h2>
                         <p>Picnics are perfect means of getaway from the urban hustle and daily grind.
@@ -123,8 +124,8 @@
                             have the capacity of managing picnic for 100 participants and have variety 
                             of menu to offer to our respected guest.
                         </p>
-                    </div>
-                    <div class="col-6">
+                    </div> 
+                    <div class="col-md-6 col-sm-12 col-xm-12 col-lg-6">
                         <img src="img/Meeting and Seminar.png" class="img-float pb-2" alt="Meeting and Seminar">
                         <h2><strong>Meeting and Seminar</strong></h2>
                         <p>Imagine holding a most productive workshop or a seminar, or even just
@@ -135,11 +136,72 @@
                             We have capacity of 20 person in a round table layout and 30 in theatre 
                             style set up.
                         </p>
+                    </div> -->
+                    <div class="col-md-6 col-sm-6 col-xm-12"> 
+                        <div class="card w-150">
+                            <img class="card-img-top" src="img/Bishnudwaar.png" alt="Bishnudwaar">
+                            <div class="card-body">
+                                <h5 class="card-title Header_2"><strong>Bird Watching</strong></h5>
+                                <p class="card-text">
+                                    Shivapuri has played a vital role in bird conservation and tourism. 
+                                    886 species of birds have been recorded in Nepal, which are about 9% of
+                                    the total bird species found worldwide. Among them, 42 species are globally
+                                    threatened and 35 globally near threatened. Among them 311 bird species, 
+                                    including 117 migratory birds have been found in Shivapuri, making it an 
+                                    ornithologist’s paradise.
+                                </p>
+                            </div>
+                        </div>
                     </div>
+                    <div class="col-md-6 col-sm-6 col-xm-12"> 
+                        <div class="card w-150" >
+                            <img class="card-img-top" src="img/Teen Chuli.png" alt="Teen Chuli">
+                            <div class="card-body">
+                                <h5 class="card-title Header_2"><strong>Hike and Jungle Safari</strong></h5>
+                                <p class="card-text">
+                                    Your perfect adventure guide.
+                                    Available hiking routes:    
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-xm-12"> 
+                        <div class="card w-150">
+                            <img class="card-img-top" src="img/Day Package - Picnic.png" alt="Day Package - Picnic">
+                            <div class="card-body">
+                                <h5 class="card-title Header_2"><strong>Day Package - Picnic </strong></h5>
+                                <p class="card-text">
+                                    Picnics are perfect means of getaway from the urban hustle and daily grind.
+                                    At Naava, you can book a picnic spot and spend time with your family. We 
+                                    have the capacity of managing picnic for 100 participants and have variety 
+                                    of menu to offer to our respected guest.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-xm-12"> 
+                        <div class="card w-100">
+                            <img class="card-img-top" src="img/Meeting and Seminar.png" alt="Meeting and Seminar">
+                            <div class="card-body">
+                                <h5 class="card-title Header_2"><strong>Meeting and Seminar</strong></h5>
+                                <p class="card-text">
+                                    Imagine holding a most productive workshop or a seminar, or even just
+                                    a brainstorming session, in a fresh, natural environment that's so 
+                                    conveniently located, you'll appreciate how much time is saved in 
+                                    arranging one, Imagine the unleashing of creativity and the opening 
+                                    of minds, thats ensured by the wonderfully refreshing and cozy ambience. 
+                                    We have capacity of 20 person in a round table layout and 30 in theatre 
+                                    style set up.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    
                 </div>
-            </div> -->
+            </div>
         </section>
-<!--        
+    
 <?php
     include('includes/footer.php')
-?> -->
+?>
