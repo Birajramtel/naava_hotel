@@ -42,7 +42,7 @@
                         <h6 class="Header_6"><strong>Packages</strong></h6>
                         <h2 class="Header_2_white"><strong><b>We bring you better<br>among the best.</b></strong></h2>
                         <div class="row"> 
-                            <div class="col-lg-3 col-md-3 col-sm-4 col-xm-6"> 
+                            <div class="col-lg-3 col-md-3 "> 
                                 <div class="card" style="width: 23 rem;">
                                     <img class="card-img-top" src="img/Seminar Hall from Back.png" alt="Seminar Hall from Back">
                                     <div class="card-body">
@@ -52,7 +52,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-3 col-sm-4 col-xm-6"> 
+                            <div class="col-lg-3 col-md-3 "> 
                                 <div class="card" style="width: 23 rem;">
                                     <img class="card-img-top" src="img/Seminar Hall from Back.png" alt="Seminar Hall from Back">
                                     <div class="card-body">
@@ -62,7 +62,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-3 col-sm-4 "> 
+                            <div class="col-lg-3 col-md-3 "> 
                                 <div class="card" style="width: 23 rem;">
                                     <img class="card-img-top" src="img/Seminar Hall from Back.png" alt="Seminar Hall from Back">
                                     <div class="card-body">
@@ -72,7 +72,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-3 col-sm-4 "> 
+                            <div class="col-lg-3 col-md-3 "> 
                                 <div class="card" style="width: 23 rem;">
                                     <img class="card-img-top" src="img/Seminar Hall from Back.png" alt="Seminar Hall from Back">
                                     <div class="card-body">

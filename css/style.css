@@ -1,4 +1,4 @@
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 773px) {
   .card {
     height: 200px;
     width: 200px;
@@ -46,10 +46,10 @@ body {
 
 .Section_Hero_Inside {
   position: absolute;
+  bottom: 0%;
   top: 0%;
   left: 0%;
   right: 0%;
-  bottom: 0%;
 }
 
 /* Social Icons Opened */
@@ -223,13 +223,13 @@ ul.breadcrumb li a:hover {
 }
 
 /* gallery */
-.gallery__wrapper {
+/* .gallery__wrapper {
   display: flex;
   flex-wrap: wrap;
 }
 .gallery__wrapper a {
   width: calc(100% / 4);
-}
+} */
 
 /* Testimonial  */
 .testimonial .bg_test .testimonials {
