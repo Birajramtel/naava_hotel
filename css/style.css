@@ -29,6 +29,11 @@ body {
   top: 17%;
   left: 20%;
 }
+
+.Header_Logo_Content .Header_Content .nav_hero {
+  background-color: #000;
+  opacity: 0.6;
+}
 .Header_Content_Paragraph {
   position: absolute;
   bottom: 0%;
@@ -50,6 +55,10 @@ body {
   top: 0%;
   left: 0%;
   right: 0%;
+}
+.Section_Hero .Section_Hero_Image {
+  width: 100%;
+  height: auto;
 }
 
 /* Social Icons Opened */
@@ -253,4 +262,8 @@ ul.breadcrumb li a:hover {
   background: #61483a;
   color: #ffffff;
   border-color: #61483a;
+}
+.center-maker {
+  display: flex;
+  justify-content: center;
 }

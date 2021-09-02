@@ -84,37 +84,39 @@
                         <img class="img-fluid float-left" src="img/Naava PP.png" alt="Naava Brown Bg logo Image">
                     </div>
                     <div class="col-10 Header_Content">
-                        <nav class="navbar navbar-expand-lg navbar-light">
+                        <nav class="navbar navbar-expand-lg navbar-light nav_hero">
+                        <a class="navbar-brand" href="#"></a>
                             <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-                                <span class="navbar-toggler-icon"></span>
+                                <span class="navbar-toggler-icon bg-white">
+                                </span>
                             </button>
                             <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-                                <ul class="navbar-nav pl-2">
-                                    <li class="nav-item pl-4">
+                                <ul class="navbar-nav">
+                                    <li class="nav-item pr-2">
                                         <a class="nav-link active nav_text" href="index.php">Home<span class="sr-only">(current)</span></a>
                                     </li>
-                                    <li class="nav-item pl-4">
+                                    <li class="nav-item">
                                         <a class="nav-link nav_text" href="about.php">About Naava</a>
                                     </li>
-                                    <li class="nav-item pl-4">
+                                    <li class="nav-item">
                                         <a class="nav-link nav_text" href="#">Explore Shivapuri</a>
                                     </li>
-                                    <li class="nav-item pl-4">
+                                    <li class="nav-item">
                                         <a class="nav-link nav_text" href="accommodation.php">Accommodation</a>
                                     </li>
-                                    <li class="nav-item pl-4">
+                                    <li class="nav-item">
                                         <a class="nav-link nav_text" href="eat_and_drink.php">Eat and Drink</a>
                                     </li>
-                                    <li class="nav-item pl-4 ">
+                                    <li class="nav-item">
                                         <a class="nav-link nav_text" href="#">Packages</a>
                                     </li>
-                                    <li class="nav-item pl-4">
+                                    <li class="nav-item">
                                         <a class="nav-link nav_text" href="#">Highlights</a>
                                     </li>
-                                    <li class="nav-item pl-4">
+                                    <li class="nav-item">
                                         <a class="nav-link nav_text" href="#">Gallery</a>
                                     </li>
-                                    <li class="nav-item pl-4">
+                                    <li class="nav-item">
                                         <a class="nav-link nav_text" href="contact.php">Contact Us</a>
                                     </li>
                                 </ul>
