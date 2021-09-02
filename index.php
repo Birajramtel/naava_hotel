@@ -34,52 +34,51 @@
             </div>
             <!-- Package page -->
             <div class="Section_Hero">
-                <div class="Section_Hero_Image ">
-                    <img src="img/Hotel_Front.png" alt="Hotel Front View" class = "package_image d-none d-md-block" width="100%">
+                <div class="Section_Hero_Image">
+                    <img src="img/Hotel_Front.png" alt="Hotel Front View">
                 </div> 
                 <div class="Section_Hero_Inside pl-5">
-                    <div class="container">
+                    <div class="container pt-5 mt-5">
                         <h6 class="Header_6"><strong>Packages</strong></h6>
-                        <h2 class="Header_2_white d-none d-md-block"><strong><b>We bring you better<br>among the best.</b></strong></h2>
-                        <h2 class="Header_2 d-xm-block d-md-none "><strong><b>We bring you better<br>among the best.</b></strong></h2>
+                        <h2 class="Header_2_white"><strong><b>We bring you better<br>among the best.</b></strong></h2>
                         <div class="row"> 
-                            <div class="col-lg-3 col-md-3 col-sm-6 col-xm-12"> 
-                                <div class="card" style="width: 23rem;">
+                            <div class="col-lg-3 col-md-3 col-sm-4 col-xm-6"> 
+                                <div class="card" style="width: 23 rem;">
                                     <img class="card-img-top" src="img/Seminar Hall from Back.png" alt="Seminar Hall from Back">
                                     <div class="card-body">
                                         <h5 class="card-title"><strong> B&B </strong></h5>
-                                        <p class="card-text">This includes accommodation for 2 and served with continental breakfast in the morning.</p>
-                                        <a href="#" class="btn btn-colour-1 float-right">Take this</a>
+                                        <p class="card-text d-none d-md-block">This includes accommodation for 2 and served with continental breakfast in the morning.</p>
+                                        <a href="#" class="btn btn-colour-1 float-right p-1 mt-0">Take this</a>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-3 col-sm-6 col-xm-12"> 
-                                <div class="card" style="width: 23rem;">
+                            <div class="col-lg-3 col-md-3 col-sm-4 col-xm-6"> 
+                                <div class="card" style="width: 23 rem;">
                                     <img class="card-img-top" src="img/Seminar Hall from Back.png" alt="Seminar Hall from Back">
                                     <div class="card-body">
                                         <h5 class="card-title"><strong> Full Board </strong></h5>
-                                        <p class="card-text">This includes accommodation for 2 and served with continental breakfast in the morning.</p>
-                                        <a href="#" class="btn btn-colour-1 float-right">Take this</a>
+                                        <p class="card-text d-none d-md-block">This includes accommodation for 2 and served with continental breakfast in the morning.</p>
+                                        <a href="#" class="btn btn-colour-1 float-right p-1 mt-0">Take this</a>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-3 col-sm-6 col-xm-12"> 
-                                <div class="card" style="width: 23rem;">
+                            <div class="col-lg-3 col-md-3 col-sm-4 "> 
+                                <div class="card" style="width: 23 rem;">
                                     <img class="card-img-top" src="img/Seminar Hall from Back.png" alt="Seminar Hall from Back">
                                     <div class="card-body">
                                         <h5 class="card-title"><strong> Full Board Premium </strong></h5>
-                                        <p class="card-text">This includes accommodation for 2 and served with continental premium breakfast.</p>
-                                        <a href="#" class="btn btn-colour-1 float-right">Take this</a>
+                                        <p class="card-text d-none d-md-block">This includes accommodation for 2 and served with continental premium breakfast.</p>
+                                        <a href="#" class="btn btn-colour-1 float-right p-1 mt-0">Take this</a>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-3 col-sm-6 col-xm-12"> 
-                                <div class="card" style="width: 23rem;">
+                            <div class="col-lg-3 col-md-3 col-sm-4 "> 
+                                <div class="card" style="width: 23 rem;">
                                     <img class="card-img-top" src="img/Seminar Hall from Back.png" alt="Seminar Hall from Back">
                                     <div class="card-body">
                                         <h5 class="card-title"><strong> Half Board </strong></h5>
-                                        <p class="card-text">This includes accommodation for 2 and served with continental breakfast in the morning.</p>
-                                        <a href="#" class="btn btn-colour-1 float-right">Take this</a>
+                                        <p class="card-text  d-none d-md-block">This includes accommodation for 2 and served with continental breakfast in the morning.</p>
+                                        <a href="#" class="btn btn-colour-1 float-right p-1 mt-0">Take this</a>
                                     </div>
                                 </div>
                             </div> 
@@ -87,14 +86,15 @@
                     </div> 
                 </div>
             </div> 
-            <div class="container mt-5">
-                <div class="row mt-5 mr-3">
-                    <div class="col-md-6 col-sm-12 col-xm-12 mt-5 pl-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 col-sm-12 col-xm-8 ">
                         <h6 class="Header_6"><strong>HIGHLIGHTS</strong> </h6>
                         <h2 class="Header_2"> <strong> <b>What you get <br>In a nutshell</b> </strong></h2>
                     </div>
-                    <div class="col-md-6 col-sm-12 col-xm-12 mt-5 pt-5 pb-2">
-                        <button class="btn col-5 btn-colour-1 btn-lg  mr-5 float-right">Explore</button>
+                    <div class="col-md-6 col-sm-12 col-xm-4 mt-3 pb-3">
+                        <button class="btn col-5 btn-colour-1 btn-lg d-none d-md-block float-right mt-5">Explore</button>
+                        <button class="btn col-5 btn-colour-1 btn-lg d-sm-block d-md-none mt-3">Explore</button>
                     </div>
                 </div>
                 <div class="row package_header">
