@@ -4,8 +4,8 @@
     <body>
         <section>
             <!-- About page -->
-            <div class="container mt-5 mb-5">
-                <div class="row mt-5 mr-3">
+            <div class="container mb-5">
+                <div class="row mr-3">
                     <div class="col-md-6 col-sm-12 mt-5 pl-5">
                         <h6 class="Header_6"> <strong>ABOUT US</strong></h6>
                         <h2 class="Header_2"> <strong><b>Best Location for Best Experience </b></strong></h2>
@@ -42,7 +42,7 @@
                         <h6 class="Header_6"><strong>Packages</strong></h6>
                         <h2 class="Header_2_white"><strong><b>We bring you better<br>among the best.</b></strong></h2>
                         <div class="row"> 
-                            <div class="col-lg-3 col-md-3 "> 
+                            <div class="col-lg-3 col-md-3 col-sm-6 col-xm-6"> 
                                 <div class="card" style="width: 23 rem;">
                                     <img class="card-img-top" src="img/Seminar Hall from Back.png" alt="Seminar Hall from Back">
                                     <div class="card-body">
@@ -52,7 +52,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-3 "> 
+                            <div class="col-lg-3 col-md-3 col-sm-6 col-xm-6"> 
                                 <div class="card" style="width: 23 rem;">
                                     <img class="card-img-top" src="img/Seminar Hall from Back.png" alt="Seminar Hall from Back">
                                     <div class="card-body">
@@ -62,7 +62,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-3 "> 
+                            <div class="col-lg-3 col-md-3 col-sm-6 col-xm-6 d-none d-sm-block"> 
                                 <div class="card" style="width: 23 rem;">
                                     <img class="card-img-top" src="img/Seminar Hall from Back.png" alt="Seminar Hall from Back">
                                     <div class="card-body">
@@ -72,7 +72,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-3 "> 
+                            <div class="col-lg-3 col-md-3 col-sm-6 col-xm-6  d-none d-sm-block"> 
                                 <div class="card" style="width: 23 rem;">
                                     <img class="card-img-top" src="img/Seminar Hall from Back.png" alt="Seminar Hall from Back">
                                     <div class="card-body">
@@ -86,11 +86,11 @@
                     </div> 
                 </div>
             </div> 
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6 col-sm-12 col-xm-8 ">
+            <div class="container d-none d-md-block ">
+                <div class="row mt-5">
+                    <div class="col-md-6 col-sm-12 col-xm-8">
                         <h6 class="Header_6"><strong>HIGHLIGHTS</strong> </h6>
-                        <h2 class="Header_2"> <strong> <b>What you get <br>In a nutshell</b> </strong></h2>
+                        <h2 class="Header_2"> <strong><b>What you get <br>In a nutshell</b> </strong></h2>
                     </div>
                     <div class="col-md-6 col-sm-12 col-xm-4 mt-3 pb-3">
                         <button class="btn col-5 btn-colour-1 btn-lg d-none d-md-block float-right mt-5">Explore</button>
@@ -137,7 +137,7 @@
                             style set up.
                         </p>
                     </div> -->
-                    <div class="col-md-6 col-sm-6 col-xm-12"> 
+                    <div class="col-md-6 col-sm-6 col-xm-12 pt-1"> 
                         <div class="card w-150">
                             <img class="card-img-top" src="img/Bishnudwaar.png" alt="Bishnudwaar">
                             <div class="card-body">
@@ -153,7 +153,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-sm-6 col-xm-12"> 
+                    <div class="col-md-6 col-sm-6 col-xm-12 pt-1"> 
                         <div class="card w-150" >
                             <img class="card-img-top" src="img/Teen Chuli.png" alt="Teen Chuli">
                             <div class="card-body">
@@ -165,7 +165,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-sm-6 col-xm-12"> 
+                    <div class="col-md-6 col-sm-6 col-xm-12 pt-1"> 
                         <div class="card w-150">
                             <img class="card-img-top" src="img/Day Package - Picnic.png" alt="Day Package - Picnic">
                             <div class="card-body">
@@ -179,7 +179,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-sm-6 col-xm-12"> 
+                    <div class="col-md-6 col-sm-6 col-xm-12 pt-1"> 
                         <div class="card w-100">
                             <img class="card-img-top" src="img/Meeting and Seminar.png" alt="Meeting and Seminar">
                             <div class="card-body">
@@ -196,8 +196,6 @@
                             </div>
                         </div>
                     </div>
-                    
-                    
                 </div>
             </div>
         </section>

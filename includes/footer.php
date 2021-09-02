@@ -2,17 +2,17 @@
     <h6 class="Header_6"><strong>PHOTOS</strong></h6>
     <h2 class="Header_2"> <strong><b>See our latest photos<br>From restaurant and hotel</b> </strong></h2>
 </div>
-<div class="row mt-5">
-    <div class="col-md-3 col-sm-3 col-xm-6 p-0">
+<div class="row ml-0 mr-0 p-0">
+    <div class="col-md-3 col-sm-6 col-xm-12 pl-0 pr-0">
         <a><img src="img/Table_final.png" class="img-fluid" alt="Table Final"></a>
     </div>
-    <div class="col-md-3 col-sm-3 col-xm-6 p-0">
+    <div class="col-md-3 col-sm-6 col-xm-12 pl-0 pr-0">
         <a><img src="img/Bishnudwaar_final.png" class="img-fluid" alt="Bishnudwaar Hiking"></a>
     </div>
-    <div class="col-md-3 col-sm-3 col-xm-6 p-0">
+    <div class="col-md-3 col-sm-6 col-xm-12 pl-0 pr-0">
         <a><img src="img/Bed_final.png" class="img-fluid" alt="Hotel Bed"></a>
     </div>    
-    <div class="col-md-3 col-sm-3 col-xm-6 p-0">
+    <div class="col-md-3 col-sm-6 col-xm-12 pl-0 pr-0">
         <a><img src="img/Seminar_final.png" class="img-fluid" alt="Seminar Hall"></a>
     </div>
 </div>

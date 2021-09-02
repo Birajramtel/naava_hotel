@@ -123,14 +123,5 @@
                     </div>
                 </div>
             </div>
-            <!-- <div class="container Header_Content_Paragraph col-10 ">
-                <h1 class= "header_1 pt-1 d-none d-md-block"><strong><b> Your home <br> away from Home.</b></strong> </h1>
-                <div class="col-md-5 col-sm-2 pt-5 ">
-                    <p class="d-none d-md-block">Naava is an amalgamation of comfort, beauty and adventure: whether you are
-                        someone seeking a break from your daily affairs or someone seeking adventure 
-                        or insight into Nepal’s diverse flora and fauna, Naava is the perfect place for you.
-                    </p>
-                </div>
-            </div> -->
         </div>
     </header>
